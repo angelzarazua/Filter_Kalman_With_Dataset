@@ -7,6 +7,7 @@ En principio he trabajado con los datos de *Humedad relativa*, pero funcionaría
 ## Getting Started
 
 Simplemente elije el dataset con el que quieres hacer las pruebas cambiando Δ y Q, que son los errores.
+Toda la información se encuentra en el pdf.
 
 ### Installing
 
@@ -17,7 +18,7 @@ Python > 3.3.7
 Ejecutar el programa tal que:
 
 ```
-python *main* (nombre del archivo)
+python *main.py* (nombre del archivo)
 ```
 
 O ejecutar programa desde visual studio.
@@ -31,10 +32,10 @@ O ejecutar programa desde visual studio.
 
 ## Authors
 
-Gracias: **zziz**  [Kalman Filter implementation in Python using Numpy only in 30 lines.](https://github.com/zziz/kalman-filter)
+Gracias a: **zziz**  -[Kalman Filter implementation in Python using Numpy only in 30 lines.](https://github.com/zziz/kalman-filter)-
 
 #### Output
-![Result](https://ibb.co/JrFrDsM)
-![Result](https://ibb.co/2tr4t7g)
-![Result](https://ibb.co/s9wq2mC)
-![Result](https://ibb.co/h203Ww8)
+![Result](https://i.ibb.co/NWnWcyH/1.png)
+![Result](https://i.ibb.co/Lty7tzn/1-1.png)
+![Result](https://i.ibb.co/F4wzKxX/2.png)
+![Result](https://i.ibb.co/7rhsWLy/2-1.png)
